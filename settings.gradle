@@ -1,0 +1,2 @@
+rootProject.name = "MoviePaging3"
+include ':app'
